@@ -1,0 +1,17 @@
+# ninja log v5
+0	148	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	64bf60ea5ebfa88f
+148	213	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	451d0d81051f24f6
+0	77	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	7923427f4b9f22b9
+77	111	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libmynativehelper.so	be12567b7a4d81dd
+0	173	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	64bf60ea5ebfa88f
+173	289	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	451d0d81051f24f6
+1	92	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	7923427f4b9f22b9
+92	154	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libmynativehelper.so	be12567b7a4d81dd
+1	146	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	64bf60ea5ebfa88f
+147	219	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	451d0d81051f24f6
+1	76	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	7923427f4b9f22b9
+76	104	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libmynativehelper.so	be12567b7a4d81dd
+0	141	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	64bf60ea5ebfa88f
+141	211	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so	451d0d81051f24f6
+0	69	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	7923427f4b9f22b9
+69	96	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libmynativehelper.so	be12567b7a4d81dd

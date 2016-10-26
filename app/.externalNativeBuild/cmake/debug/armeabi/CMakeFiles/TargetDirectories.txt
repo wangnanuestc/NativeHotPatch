@@ -1,0 +1,4 @@
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/mynativehelper.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/native-lib.dir

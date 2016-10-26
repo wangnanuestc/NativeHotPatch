@@ -1,0 +1,4 @@
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/edit_cache.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/rebuild_cache.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/mynativehelper.dir
+/Users/wangnan/Personal/NativePatch/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/native-lib.dir

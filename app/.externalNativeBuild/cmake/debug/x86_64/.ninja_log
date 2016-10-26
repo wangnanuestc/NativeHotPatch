@@ -1,0 +1,17 @@
+# ninja log v5
+0	130	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	e3d7c8735fa93e9e
+130	194	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	434793c833cad1a3
+0	61	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	72f8f766529649d5
+61	88	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libmynativehelper.so	1a1d05aa294162d8
+9	232	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	e3d7c8735fa93e9e
+232	362	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	434793c833cad1a3
+0	68	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	72f8f766529649d5
+68	115	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libmynativehelper.so	1a1d05aa294162d8
+1	138	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	e3d7c8735fa93e9e
+138	204	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	434793c833cad1a3
+0	55	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	72f8f766529649d5
+55	87	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libmynativehelper.so	1a1d05aa294162d8
+1	132	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	e3d7c8735fa93e9e
+132	217	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	434793c833cad1a3
+0	57	0	CMakeFiles/mynativehelper.dir/src/main/cpp/nativehelper.cpp.o	72f8f766529649d5
+57	83	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libmynativehelper.so	1a1d05aa294162d8
